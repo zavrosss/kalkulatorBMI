@@ -1,1 +1,1 @@
-BMI calculator using double variable type and rounding to one decimal number using "Math.round"
+kalkulatorBMI z wykorzystanien typu zmiennej <b>double</b> oraz zaogrąglenia do jednej liczby po przecinku za pomoca "Math.round".
